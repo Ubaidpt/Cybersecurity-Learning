@@ -3,7 +3,7 @@
 ​A computer network is a system of connected devices (computers, servers, routers) that talk to each other to share data and resources.
 
 ​Core Components
-​End Devices: PCs, phones, and servers that create or receive data.
+End Devices: PCs, phones, and servers that create or receive data.
 
 ​Network Devices: Switches (connect devices locally) and Routers (connect different networks).
 

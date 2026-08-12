@@ -1,0 +1,66 @@
+🖥️ Operating System (OS)
+1. What is an Operating System?
+
+An Operating System (OS) is the main software that manages computer hardware, applications, users, files, memory, and security.
+
+Examples: Windows, Linux, macOS.
+
+✈️ Easy Analogy — Computer = Airport
+Hardware → Runways, airplanes, radar, fuel systems
+Applications → Airlines and passengers
+Operating System → Air Traffic Control
+
+👉 The OS coordinates everything and prevents different programs from interfering with each other.
+
+2. Why Do We Need an OS?
+
+Without an OS, every application would need to directly manage:
+
+CPU
+RAM
+Storage
+Devices
+Files
+Security
+
+This would create conflicts and instability.
+
+👉 OS = Central Manager of the Computer
+
+🔐 3. System Privilege Layers
+
+Modern operating systems separate programs into different privilege levels.
+
+Kernel Space
+Highly privileged part of the OS.
+Contains the kernel.
+Can directly access hardware.
+Manages CPU, RAM, storage, and devices.
+User Space
+Where normal applications run.
+Applications have limited access.
+They cannot directly control hardware.
+They request services from the kernel using system calls.
+✈️ Simple Analogy
+
+Kernel Space = Airport Control Tower
+User Space = Airlines/Passengers
+System Call = Radio request to the control tower
+
+👉 This separation improves security, stability, and reliability.
+
+⚙️ 4. Main Duties of an OS
+Responsibility	What it does
+Process Management	Creates, schedules, and terminates programs
+Memory Management	Allocates and protects RAM
+File System Management	Organizes files, folders, names, and permissions
+User Management	Manages users, authentication, and access
+Device Management	Manages hardware using drivers
+
+🛡️ 5. OS Security
+
+The operating system provides basic security through:
+
+Authentication → Verifies who you are.
+Permissions → Controls what users/apps can access.
+System Protection → Protects important system files and settings.
